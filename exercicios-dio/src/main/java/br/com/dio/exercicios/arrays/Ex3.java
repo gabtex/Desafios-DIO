@@ -12,7 +12,7 @@ public class Ex3 {
 
         Random random = new Random();
 
-        int [] vetor = new int[20];
+        int[] vetor = new int[20];
         int i = 0;
 
         for(i = 0; i < vetor.length; i++){
